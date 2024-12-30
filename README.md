@@ -1,4 +1,4 @@
-# Airdrop ASC Simple Page
+# Airdrop ASC Simple Landing Page
 
 This page should help get you started developing with Vue 3 in Vite.
 
