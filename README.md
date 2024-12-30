@@ -4,7 +4,7 @@
 
 ### Live View
 
-Build for Test Deployment on [Arlink](https://arlink.arweave.net) & Visit the [Live View](https://asc_arlink.arweave.net/) to see the app in action.
+Build for Test Deployment on [Arlink](https://arlink.arweave.net) & visit the [Live View](https://asc_arlink.arweave.net/) to see the app in action.
 
 ### Project Setup
 
